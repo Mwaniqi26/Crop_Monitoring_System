@@ -1,1 +1,0 @@
-# Crop_Monitoring_System
